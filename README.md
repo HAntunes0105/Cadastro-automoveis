@@ -12,6 +12,6 @@ O programa fica em laço enquanto a Placa for digitada. O laço termina quando f
 para a placa. Se for digitada uma placa com letras minúsculas o programa converte elas para
 maiúsculas com o método .upper().
 
-Sendo possivel alterar os dados da placa após digitar a placa correspondente. Para os campos em que nada for digitado é mantido
+Se for digitado uma placa que ja tenha sido registrada, é possivel alterar o seu conteudo. Para os campos em que nada for digitado é mantido
 o valor já cadastrado.
 Ao final do laço é gravado todos os dados em um arquivo CSV usando o caractere ";" como delimitador.

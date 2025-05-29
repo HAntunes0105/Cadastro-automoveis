@@ -16,6 +16,7 @@ Se for digitado uma placa que ja tenha sido registrada, é possivel alterar o se
 o valor já cadastrado.
 Ao final do laço é gravado todos os dados em um arquivo frota.csv de forma estruturada, que usa o caractere ";" como delimitador.
 
+---
 
 ##Ler-arquivo-csv
 
